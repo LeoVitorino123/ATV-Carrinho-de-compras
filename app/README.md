@@ -6,14 +6,8 @@ App Android (Jetpack Compose + Material 3) que carrega um catálogo fixo, aplica
 lista o carrinho com um componente reutilizável e gera relatório no Logcat (tag `CARRINHO`).
 
 ## Capturas de tela
-
-### Emulador
-![Emulador](screenshots/emulador.png)
-
-![Emulador completo](screenshots/emulador-completo.png)
-
-### Logcat
-![Logcat](screenshots/logcat.png)
+- Emulador: `screenshots/emulador.png`
+- Logcat: `screenshots/logcat.png`
 
 ## Validação
 Bruto R$ 7.437,80 | Descontos R$ 349,90 | Total R$ 7.087,90
